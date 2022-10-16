@@ -1,6 +1,8 @@
-# Module 05 Mini-Project: Project Tracker
+# Project Tracker
 
 In this project, you will work with others to create a project tracker application using Bootstrap, jQuery, jQueryUI, Moment, and Google Fonts. Break up these phases amongst members of your team.
+
+![picture of webpage](assets/images/Capture.PNG)
  
 ## Instructions
 
@@ -85,5 +87,3 @@ While you build, remember the following guidelines:
 3. Use jQuery event delegation to attach an event listener to each of those buttons so that when clicked, the parent `<tr>` element will be removed from the page.
 
 ---
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
